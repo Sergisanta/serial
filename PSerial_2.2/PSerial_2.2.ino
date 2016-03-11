@@ -21,8 +21,7 @@ void setup() {
   
   Serial.println("Lets calculate a hypoteneuse ");
 
-  sqrt(h)= sqrt(a) + sqrt(b)
-  pow(h) = 
+  h = sqrt(a*a + b*b);
   
   Serial.print("a = ");
   Serial.println(a);

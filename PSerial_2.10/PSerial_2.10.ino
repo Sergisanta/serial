@@ -1,7 +1,7 @@
 /************************************************************************************************************************
 **                                                                                                                     ** 
-**                                 Projecte 2 / Programa 9                                                             ** 
-**       Editar i carregar un programa perquè en el monitor hi aparegui la solució de la hipotensua d'un TR            **
+**                                 Projecte 2 / Programa 10                                                             ** 
+**       Editar i carregar un programa perquè en el monitor hi aparegui el resultat d'una divisió en nombre decimal.   **
 **                                                                                                                     **
 **                                                                                                                     **                                                                                                        
 ************************************************************************************************************************/

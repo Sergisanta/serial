@@ -1,7 +1,7 @@
 /************************************************************************************************************************
 **                                                                                                                     ** 
 **                                 Projecte 2 / Programa 5                                                             ** 
-**       Editar i carregar un programa perquè en el monitor hi aparegui la solució de la hipotensua d'un TR            **
+**       Editar i carregar un programa perquè faci l'equivalencia de GB a MB                                           **
 **                                                                                                                     **
 **                                                                                                                     **                                                                                                        
 ************************************************************************************************************************/
@@ -12,7 +12,7 @@
 
 //***********  Variables  *******************************************************************************
 int drive_gb = 100;
-long drive_mb;
+long drive_mb;          // em canviat el tipus de "int" a "long"
 
 //***********  Setup  ************************************************************************************
 void setup() {

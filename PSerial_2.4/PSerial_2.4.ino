@@ -1,7 +1,7 @@
 /************************************************************************************************************************
 **                                                                                                                     ** 
 **                                 Projecte 2 / Programa 4                                                             ** 
-**       Editar i carregar un programa perquè en el monitor hi aparegui la solució de la hipotensua d'un TR            **
+**       Editar i carregar un programa perquè faci l'equivalencia de GB a MB                                           **
 **                                                                                                                     **
 **                                                                                                                     **                                                                                                        
 ************************************************************************************************************************/
